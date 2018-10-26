@@ -11,7 +11,7 @@ import org.openqa.selenium.ie.InternetExplorerDriver;
 public class GNMSLoginPageTest 
 {
 	
-	final String password = "Nov@2018";
+	
 	private WebDriver driver;
 
 	@Before
